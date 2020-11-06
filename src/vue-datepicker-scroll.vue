@@ -5,7 +5,6 @@
         <Icon />
       </div>
       <input
-        id="birthday"
         type="text"
         :class="computedInputClass"
         inputmode="numeric"
